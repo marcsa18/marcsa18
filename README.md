@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Marcos
-- 👀 I love to code and create new things
-- 🌱 I’m currently learning Python & Java
-- 💞️ I’m looking to collaborate on cutting edge projects
+- 👋 Hi, I’m Marcos Sabala
+- 👀 I’m looking to become a software engineer mainly working on software app development as well as cloud computing.
+- 🌱 I’m currently learning Python & C++ as well as participating in the 100 Days of Code challenge.
+- 💞️ I love diving into difficult problems and trying to solve them, creating applications that millions of people can use is my dream.
 - 📫 How to reach me: email - marcos.madrigal11@yahoo.com
 
 <!---
